@@ -5,4 +5,7 @@ Embedd any kind of file into an image using this app and extract the file whenev
 #Dependencies
 
 1.OpenCv2
+
+
+
 2.Os module of python
